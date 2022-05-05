@@ -43,8 +43,8 @@ For more information on license types, please reference to this website for addi
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
   ## Website design image
-  ![This is website image](/assets/images/readme.png)
+  ![This is website image](/assets/images/teamProfile.png)
 
   ## Project Video Link
-  ![This is a video link](/assets/images/readme.png)
+  ![This is a video link](/assets/images/teamProfile.mov)
 

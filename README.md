@@ -1,4 +1,4 @@
- # README.md Generator Using Node.js [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
+ # Team Profile Generator Using Node.js [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
   ## Description
 

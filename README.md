@@ -46,5 +46,5 @@ For more information on license types, please reference to this website for addi
   ![This is website image](/assets/images/teamProfile.png)
 
   ## Project Video Link
-  ![This is a video link](/assets/images/teamProfile.mov)
+  ![This is a video link](/assets/video/teamProfile.mov)
 
